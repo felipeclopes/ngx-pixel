@@ -2,15 +2,14 @@
   "name": "ngx-pixel",
   "description": "An Angular library to simplify the use of a Facebook Pixel.",
   "author": {
-    "name": "Niels Kersic",
-    "email": "hi@niels.codes",
-    "url": "https://niels.codes"
+    "name": "Felipe Lopes",
+    "email": "felipelopes10@gmail.com"
   },
   "license": "MIT",
   "version": "1.1.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NielsKersic/ngx-pixel"
+    "url": "https://github.com/felipeclopes/ngx-pixel"
   },
   "keywords": [
     "angular",
@@ -20,8 +19,8 @@
     "typescript"
   ],
   "peerDependencies": {
-    "@angular/common": ">=11.0.1",
-    "@angular/core": ">=11.0.1"
+    "@angular/common": ">=17.0.0",
+    "@angular/core": ">=17.0.0"
   },
   "dependencies": {
     "tslib": ">=2.0.0"
